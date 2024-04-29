@@ -1,6 +1,6 @@
 version: 2
 sources:
-    - name: <schema>
+    - name: bqdataset
       tables:
         - name: tracks
           columns:
